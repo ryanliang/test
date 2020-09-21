@@ -6,4 +6,3 @@ a.shout
 
 d = Dog.new
 d.bark
-
